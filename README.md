@@ -1,4 +1,4 @@
-# how to install and start the application.
+# How to install and start the application.
 
 This is a React application that fetches a random user's full name and email address from the [Random User Generator API](https://randomuser.me/api).
 
